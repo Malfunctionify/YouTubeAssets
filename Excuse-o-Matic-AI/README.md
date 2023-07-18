@@ -15,6 +15,8 @@ Powered by advanced artificial intelligence, this program takes excuse generatio
 Explore Excuse-o-Matic AI and witness firsthand my skills in action, as I bring together technology and comedy to entertain and amuse users.
 
 ## Features
+- **Simple to use**: Excuse-o-Matic AI is super simple to use, and learning it's codebase has been described as "Easier than eatig a peace of cake".
+
 - **AI-Powered Excuse Generation**: Excuse-o-Matic AI leverages state-of-the-art artificial intelligence algorithms to generate random and funny excuses that are sure to bring a smile to your face.
 
 - **Wide Range of Scenarios**: Whether you need an excuse for being late, missing a deadline, or simply wanting to lighten the mood, Excuse-o-Matic AI has got you covered with a diverse collection of excuse templates.
