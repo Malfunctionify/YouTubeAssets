@@ -2,7 +2,7 @@
 
 ![Excuse-o-Matic AI Logo](excuse-o-matic-logo.png)
 
-Excuse-o-Matic AI, also known as the AI-Powered Random Excuse Generator, is an innovative tool that generates hilarious and unique excuses for a variety of situations and a remarkable showcase of my programming skills across various languages and frameworks.
+[Excuse-o-Matic AI](https://malfunctionify.github.io/YouTubeAssets/Excuse-o-Matic-AI/), also known as the AI-Powered Random Excuse Generator, is an innovative tool that generates hilarious and unique excuses for a variety of situations and a remarkable showcase of my programming skills across various languages and frameworks.
 
 With expertise in Python, JavaScript, NodeJS, C#, SQL, TypeScript, PHP, and more, I have developed this innovative tool that harnesses the power of advanced artificial intelligence.
 

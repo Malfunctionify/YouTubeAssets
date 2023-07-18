@@ -1,12 +1,12 @@
 # My Official YouTube & GitHub Assets Page
-Welcome to my official YouTube & GitHub Assets page!
+Welcome to my official [YouTube & GitHub Assets page!](https://malfunctionify.github.io/YouTubeAssets/)
 Here, you'll find an exciting collection of projects and repositories as-seen-on-youtube showcasing my skills, creativity, and passion for coding & recreation purposes.
 
 ## About Me
 I'm a skilled programmer with a deep love for technology and a knack for injecting humor into the world of coding. Through my projects, I aim to bring a comedic twist to the realm of technology, making it accessible and enjoyable for everyone.
 
 ## Projects
-On this page, you'll find a variety of projects that reflect my unique style and sense of humor. From the "Excuse-o-Matic AI" to other exciting and innovative endeavors, each project is designed to entertain, educate, and inspire.
+On this page, you'll find a variety of projects that reflect my unique style and sense of humor. From the "[Excuse-o-Matic AI](https://malfunctionify.github.io/YouTubeAssets/Excuse-o-Matic-AI/)" to other exciting and innovative endeavors, each project is designed to entertain, educate, and inspire.
 
 ## Contributions and Collaboration
 I believe in the power of collaboration and community. I welcome contributions, feedback, and ideas from fellow developers, tech enthusiasts, and anyone who wants to be a part of the fun. Let's join forces and create something amazing together!
